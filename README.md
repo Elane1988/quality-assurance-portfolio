@@ -1,25 +1,24 @@
-QA Automation Portfolio
+ QA Automation Portfolio
 
 Projeto criado para demonstrar um fluxo de testes automatizados utilizando Playwright.
 
-Cenário
+  Cenário
 
 Automação do fluxo de login e compra do SauceDemo.
 
-Tecnologias
+  Tecnologias
 
-Playwright
-JavaScript
-GitHub Actions
-Page Object Model
-Casos de Teste
-Login válido
-Login inválido
-Adicionar produto ao carrinho
-Logout
+Playwright/
+JavaScript/
+GitHub Actions/
+Page Object Model/
+Casos de Teste/
+Login válido/
+Login inválido/
+Adicionar produto ao carrinho/
+Logout/
 
-Casos de Teste
-
+  Casos de Teste
 
 Login válido
 Login inválido
