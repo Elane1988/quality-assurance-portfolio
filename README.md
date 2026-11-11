@@ -5,12 +5,12 @@ Cenário
 Automação do fluxo de login e compra do SauceDemo.
 
 Tecnologias
-Playwright
-JavaScript
-GitHub Actions
-Page Object Model
-Casos de Teste
-Login válido
-Login inválido
-Adicionar produto ao carrinho
-Logout
+*Playwright
+*JavaScript
+*GitHub Actions
+*Page Object Model
+*Casos de Teste
+*Login válido
+*Login inválido
+*Adicionar produto ao carrinho
+*Logout
